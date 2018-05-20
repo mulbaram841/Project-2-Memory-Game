@@ -26,14 +26,16 @@ The Game Play will be timed and graded!
 
 Rules:
 You have to match identical cards. 
-The moves you make are counted.
+Each click is counted as a move.
 If your moves are equal to 18 then you will get 3 Stars.
 If your moves are greater than 18 and less than 25 then you will get 2 Stars.
 Otherwise, you will get 1 Star.
-You can also restart the game at any stage by clicking the reset button.
+You can restart the game at any stage by clicking the reset button.
+Let's win this thing!
 
 Resources used:
 https://www.rapidtables.com/web/color/red-color.html
 http://jshint.com/
 https://www.w3schools.com/howto/howto_css_modals.asp
-https://sandraisrael.github.io/
+https://www.w3schools.com/colors/colors_gradient.asp
+https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
