@@ -39,3 +39,4 @@ http://jshint.com/
 https://www.w3schools.com/howto/howto_css_modals.asp
 https://www.w3schools.com/colors/colors_gradient.asp
 https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
+https://pixabay.com/en/nature-waters-travel-mountain-3082832/
