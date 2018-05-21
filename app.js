@@ -2,7 +2,7 @@
 /*global $:false */
 let removeProperties = [];
 let showCardOnClick = [];
-let swal = [];
+var swal = [];
 //timer setup
 var min = 0;
 var sec = 0;
